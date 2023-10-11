@@ -1,3 +1,6 @@
+https://github.com/ota-meshi/eslint-plugin-astro/issues/240
+
+
 # Astro Starter Kit: Basics
 
 ```sh
